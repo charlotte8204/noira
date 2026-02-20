@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "block_id": "HI-46-B4",
+    "amne": "Historia",
+    "arskurs": "4-6",
+    "tema": "Maktförhållanden och levnadsvillkor i Norden, ca 1500-1800",
+    "titel": "Frihetstiden och den gustavianska tiden (1719-1809)",
+    "centralt_innehall_lgr22": "Uppror och motstånd mot kungamakten - frihetstiden: riksdagens makt, hattar och mössor. Gustav III:s statskupp, mordet, 1809 års regeringsform",
+    "rekommenderad_niva": "2-3",
+    "niva_motivering": "Tema B behandlas typiskt i åk 5-6. Frihetstiden och den gustavianska tiden undervisas oftast i åk 6 (nivå 3) men kan introduceras i åk 5 (nivå 2). Blocket kräver förkunskaper om stormaktstiden och kungamaktens utveckling.",
+    "bedomningsfokus": [
+      "Kunskaper om händelser, aktörer och förändringsprocesser",
+      "Förmåga att föra resonemang om orsaker och konsekvenser",
+      "Förmåga att föra resonemang om hur historia kan brukas i olika sammanhang"
+    ],
+    "betyg_e_fokus": "Eleven visar grundläggande kunskaper och för enkla resonemang om orsaker och konsekvenser",
+    "betyg_c_fokus": "Eleven visar goda kunskaper och för utvecklade resonemang",
+    "betyg_a_fokus": "Eleven visar mycket goda kunskaper och för välutvecklade resonemang",
+    "betyg_not": "Betygskriterierna är identiska för alla block inom ett ämne - de är formulerade generellt i Lgr22. Skillnaden i betyg framkommer genom kvaliteten på elevens resonemang i frågorna, inte genom olika kärnfakta.",
+    "prerequisites": ["HI-46-B2", "HI-46-B3"],
+    "leder_till": ["HI-46-C1"],
+    "amnesovergripande_kopplingar": ["SH-46-L1", "SH-46-L2"],
+    "version": "1.0",
+    "genererad": "2026-02-19",
+    "granskad": false
+  },
+
+  "nyckelbegrepp": [
+    {
+      "begrepp": "frihetstiden",
+      "niva_1": "Perioden 1719-1772 då riksdagen styrde Sverige istället för kungen. Efter Karl XII:s död bestämde man att kungen inte längre skulle ha all makt. Det var riksdagen - med representanter för adel, präster, borgare och bönder - som fattade de viktiga besluten.",
+      "niva_2": "Den konstitutionella ordning som upprättades genom 1719 och 1720 års regeringsformer. Riksrådet och riksdagen övertog den verkställande makten, medan kungen fick en ceremoniell roll. Perioden präglades av livliga politiska debatter, partistrider, ekonomisk expansion och vetenskapliga framsteg, men också av korruption och utländsk inblandning i riksdagens beslut.",
+      "niva_3": "Ett unikt nordeuropeiskt experiment med parlamentariskt styre som föregick både den amerikanska och den franska revolutionen. Frihetstiden utmanar föreställningen om en linjär demokratisk utveckling - Sverige hade en period av utvidgat styre som sedan rullades tillbaka av Gustav III:s kupp 1772. Perioden väcker frågor om relationen mellan politisk frihet och effektivt styrelseskick, och om vems frihet det egentligen handlade om.",
+      "kontext": "Benämningen 'frihetstiden' myntades i efterhand och syftade på friheten från kungligt envälde - inte nödvändigtvis frihet för alla invånare."
+    },
+    {
+      "begrepp": "hattar och mössor",
+      "niva_1": "Två politiska grupper som kämpade om makten i riksdagen under frihetstiden. Hattarna ville att Sverige skulle vara starkt, handla med andra länder och starta fabriker. Mössorna ville ha fred och vara försiktiga med pengarna. Namnen var öknamn som partierna fick av sina motståndare.",
+      "niva_2": "Sveriges första partiliknande grupperingar med skilda politiska program och sociala baser. Hattarna - vid makten 1738-1765 - drev merkantilistisk ekonomisk politik, stödde manufakturer och allierade sig med Frankrike. Mössorna företrädde en försiktigare linje, allierade med Ryssland och Storbritannien, och hade sin bas bland lägre präster och mindre jordägare. Båda partierna tog emot ekonomiskt stöd från utländska makter.",
+      "niva_3": "Partisystemet under frihetstiden blottlägger centrala frågor om representativ demokrati: gränsen mellan politisk konkurrens och korruption, riskerna med utländsk finansiering av inhemska partier, och frågan om partierna verkligen representerade folkliga intressen eller enbart elitgruppers. Hattar och mössor kan analyseras som uttryck för olika ekonomiska klassers och regionala gruppers intressen snarare än som ideologiska rörelser i modern mening.",
+      "kontext": "'Hattarna' syftade på att de ville 'bära hatten' och bestämma. 'Mössorna' kallades ursprungligen 'nattmössor' - ett hån som antydde att de var sömniga och passiva."
+    },
+    {
+      "begrepp": "statskupp",
+      "niva_1": "När någon tar makten i ett land med våld eller hot om våld, istället för genom val eller laglig ordning. Gustav III genomförde en statskupp 1772 när han med militärens hjälp tog makten från riksdagen. År 1809 genomfördes en ny kupp, denna gång mot kungen.",
+      "niva_2": "Ett plötsligt maktövertagande som bryter mot gällande grundlag. Gustav III:s kupp den 19 augusti 1772 var noggrant förberedd - han säkrade militärens stöd, red till garnisonen i Stockholm och lät arrestera riksråden. Kuppen var obloodig men olaglig. Även avsättningen av Gustav IV Adolf 1809 var en statskupp, genomförd av officerare som ansåg att kungen styrde landet mot undergång.",
+      "niva_3": "Perioden 1719-1809 inramades av tre maktskiften med inslag av kupp: frihetstidens införande efter Karl XII:s död, Gustav III:s kupp 1772 och officerernas kupp 1809. Analysen av dessa skiften belyser skillnaden mellan kupper som koncentrerar makt och kupper som sprider makt. Gustav III legitimerade sin kupp med att 'rädda nationen' - ett argument som återkommer i kupper genom historien. Frågan om politiskt våld aktualiseras: kan en olaglig handling leda till ett rättvisare styrelseskick?",
+      "kontext": "Sverige upplevde två statskupper under perioden: Gustav III:s maktövertagande 1772 och officerernas avsättning av Gustav IV Adolf 1809."
+    },
+    {
+      "begrepp": "maktdelning",
+      "niva_1": "Att makten i ett land delas upp mellan olika grupper, så att ingen enda person eller grupp bestämmer allt. I 1809 års regeringsform delades makten mellan kungen, riksdagen och domstolarna.",
+      "niva_2": "Principen att statens makt ska fördelas på olika organ som kontrollerar varandra: lagstiftande makt (riksdagen), verkställande makt (kungen och regeringen) och dömande makt (domstolarna). 1809 års regeringsform byggde på denna princip, inspirerad av upplysningsfilosofen Montesquieu. Maktdelningen var ett direkt svar på periodens erfarenheter av både riksdagsvälde under frihetstiden och kungligt envälde under Gustav III.",
+      "niva_3": "Maktdelning som konstitutionell princip försöker lösa ett grundläggande politiskt problem: hur förhindra maktmissbruk utan att förlama beslutsfattandet? Sveriges erfarenhet 1719-1809 fungerar som ett experiment - först riksdagens dominans, sedan kungens, och slutligen en balanserad lösning. 1809 års regeringsform gällde i 165 år och visade att den konstitutionella kompromissen var hållbar. Principen lever vidare i den nuvarande grundlagen från 1974.",
+      "kontext": "Maktdelningsprincipen i 1809 års regeringsform var ett direkt svar på nästan hundra år av pendling mellan riksdagsmakt och kungamakt."
+    },
+    {
+      "begrepp": "regeringsform",
+      "niva_1": "Sveriges viktigaste grundlag, som bestämmer hur landet ska styras. Under perioden 1719-1809 byttes grundlagen flera gånger, beroende på vem som hade makten - kungen eller riksdagen.",
+      "niva_2": "Det konstitutionella dokument som reglerar statsskicket och maktfördelningen. Regeringsformen 1719 begränsade kungamakten drastiskt efter Karl XII:s envälde. Gustav III:s regeringsform 1772 återgav kungen betydande makt. Regeringsformen 1809, tillkommen efter Gustav IV Adolfs avsättning, etablerade en balanserad maktdelning som gällde ända till 1974.",
+      "niva_3": "Genom att jämföra de olika regeringsformerna under perioden framträder en konstitutionell lärprocess: varje ny grundlag var ett svar på den föregåendes brister. 1719 reagerade mot envälde, 1772 mot riksdagens handlingsförlamning, 1809 mot kungligt godtycke. Denna pendling mellan ytterligheter landade i en maktdelningsmodell som visade sig hållbar. Analysen visar hur konstitutioner formas av historiska erfarenheter snarare än abstrakta principer.",
+      "kontext": "Sverige hade fyra olika regeringsformer mellan 1719 och 1809, vilket speglar de intensiva maktkamperna under perioden."
+    },
+    {
+      "begrepp": "tryckfrihet",
+      "niva_1": "Rätten att fritt trycka och sprida böcker, tidningar och åsikter utan att kungen eller staten stoppar det. Sverige fick världens första tryckfrihetslag år 1766, mitt under frihetstiden.",
+      "niva_2": "Tryckfrihetsförordningen 1766 drevs igenom av den österbottniske prästen och riksdagsmannen Anders Chydenius. Lagen gav inte bara rätt att publicera fritt utan införde också offentlighetsprincipen - att allmänheten har rätt att ta del av offentliga handlingar. Tryckfriheten begränsades kraftigt under Gustav III:s tid och avskaffades i praktiken efter mordet 1792, men återställdes och stärktes efter 1809.",
+      "niva_3": "Tryckfrihetsförordningen 1766 var ett resultat av partistriden snarare än av idealism - mössorna ville avslöja hattarnas korruption genom att göra riksdagens handlingar offentliga. Men resultatet överskred de ursprungliga motiven och skapade en princip som blev grundläggande för svensk demokrati. Chydenius argumenterade att informationsfrihet var en förutsättning för välstånd och gott styre - ett resonemang som förebådade moderna teorier om demokratisk transparens och ansvarsutkrävande.",
+      "kontext": "Sveriges tryckfrihetsförordning från 1766 är den äldsta i världen och lade grunden för den offentlighetsprincip som fortfarande är en grundpelare i det svenska systemet."
+    },
+    {
+      "begrepp": "envälde",
+      "niva_1": "När en kung eller drottning har all makt och bestämmer helt själv utan att fråga riksdagen eller någon annan. Karl XII styrde med envälde före frihetstiden. Gustav III försökte steg för steg återinföra envälde efter sin kupp.",
+      "niva_2": "Envälde (absolutism) innebär att monarken samlar all statsmakt - lagstiftning, verkställande och domsmakt - i sin person. Karl XII:s envälde hade lett till krig och landets utarmning. Gustav III rörde sig stegvis mot envälde: kuppen 1772 gav honom stor makt, och Förenings- och säkerhetsakten 1789 gjorde honom i praktiken till enväldig härskare. I båda fallen blev konsekvenserna katastrofala.",
+      "niva_3": "Perioden 1719-1809 kan läsas som en lång erfarenhetsbaserad argumentation mot envälde. Varje gång kungamakten koncentrerades följde kris: Karl XII:s enväldiga krig förödde landet, Gustav III:s ökande makt ledde till hans mord, Gustav IV Adolfs envisa styre kostade Finland. 1809 års konstitution var det slutliga svaret - en systematisk uppdelning av makt. Enväldets uppgång och fall under perioden illustrerar det autokratiska dilemmat: oinskränkt makt möjliggör snabba beslut men saknar korrigeringsmekanismer när besluten är felaktiga.",
+      "kontext": "Perioden inramades av envälden - Karl XII:s och Gustav III:s - och avslutades med en konstitution designad för att förhindra ett tredje."
+    },
+    {
+      "begrepp": "upplysningen",
+      "niva_1": "En tidsperiod på 1700-talet då många tänkare ansåg att förnuft och kunskap kunde göra samhället bättre. I Sverige märktes det genom nya vetenskapliga upptäckter och idéer om att alla människor hade rättigheter.",
+      "niva_2": "En intellektuell rörelse under 1700-talet som betonade förnuft, vetenskap och individens rättigheter. I Sverige tog den sig uttryck genom vetenskapsmän som Carl von Linné och Anders Celsius, genom tryckfrihetsförordningen 1766 och genom Gustav III:s kulturpolitik. Upplysningens ideal om förnuftigt styre låg till grund för idén om upplyst despotism - att en bildad envåldshärskare kunde styra bättre än en folkförsamling.",
+      "niva_3": "Upplysningen skapade en paradox som tydligt syns i svensk 1700-talshistoria. Å ena sidan inspirerade den till tryckfrihet, vetenskaplig nyfikenhet och kritik av auktoriteter. Å andra sidan användes upplysningsidéer för att legitimera Gustav III:s envälde - tanken att en upplyst härskare vet bäst. Denna dubbelhet visar att idéer kan tolkas på motsatta sätt beroende på sammanhang. Upplysningens idéer om medborgerliga rättigheter och maktbegränsning fick dock avgörande genomslag i 1809 års konstitution.",
+      "kontext": "Upplysningen präglade hela den svenska 1700-talshistorien - från frihetstidens politiska experiment till den gustavianska tidens kulturliv och 1809 års grundlag."
+    }
+  ],
+
+  "kronologi": [
+    {
+      "artal": "1718",
+      "handelse": "Karl XII dör vid belägringen av Fredrikstens fästning i Norge den 30 november, träffad av en kula i tinningen",
+      "betydelse": "Stormaktstiden tar slut. Med Karl XII:s död öppnas vägen för en ny maktordning i Sverige",
+      "niva": 1
+    },
+    {
+      "artal": "1719-1720",
+      "handelse": "Nya regeringsformer antas som begränsar kungamakten kraftigt. Ulrika Eleonora avsäger sig tronen till förmån för sin make Fredrik I",
+      "betydelse": "Frihetstiden börjar. Riksdagen blir det mäktigaste organet i Sverige",
+      "niva": 1
+    },
+    {
+      "artal": "1738",
+      "handelse": "Hattpartiet tar makten i riksdagen och inleder en offensiv handels- och utrikespolitik",
+      "betydelse": "Början på en era av tydliga partistrider som präglar frihetstidens politiska liv",
+      "niva": 2
+    },
+    {
+      "artal": "1741-1743",
+      "handelse": "Hattarnas krig mot Ryssland slutar i katastrofalt nederlag. Sverige tvingas avträda sydöstra Finland",
+      "betydelse": "Visar att frihetstidens riksdag kunde fatta lika ödesdigra militära beslut som en enväldskung",
+      "niva": 2
+    },
+    {
+      "artal": "1756",
+      "handelse": "Drottning Lovisa Ulrika och hennes anhängare försöker genomföra en rojalistisk kupp för att stärka kungamakten, men avslöjas och misslyckas",
+      "betydelse": "Visar att kungafamiljen inte accepterade riksdagens dominans - ett förebud om kommande maktstrider",
+      "niva": 3
+    },
+    {
+      "artal": "1766",
+      "handelse": "Tryckfrihetsförordningen antas - världens första lag om tryckfrihet och offentlighetsprincip, driven av prästen Anders Chydenius",
+      "betydelse": "En milstolpe i demokratins historia. Medborgare får rätt att publicera fritt och ta del av offentliga handlingar",
+      "niva": 2
+    },
+    {
+      "artal": "1771",
+      "handelse": "Gustav III blir kung vid 25 års ålder efter kung Adolf Fredriks död",
+      "betydelse": "En ung, energisk och ambitiös kung tar tronen i ett Sverige präglat av partistrider och utländsk inblandning",
+      "niva": 1
+    },
+    {
+      "artal": "1772",
+      "handelse": "Gustav III genomför en statskupp den 19 augusti - rider till garnisonen, övertygar soldaterna och låter arrestera riksråden",
+      "betydelse": "Frihetstiden upphör. Kungen tar tillbaka den makt riksdagen haft i över femtio år",
+      "niva": 1
+    },
+    {
+      "artal": "1786",
+      "handelse": "Gustav III grundar Svenska Akademien med uppdrag att vårda det svenska språket",
+      "betydelse": "Symboliserar den gustavianska tidens kulturella blomstring",
+      "niva": 3
+    },
+    {
+      "artal": "1789",
+      "handelse": "Gustav III driver igenom Förenings- och säkerhetsakten, som ger honom i praktiken oinskränkt makt",
+      "betydelse": "Gustav III blir enväldig härskare. Adelns privilegier beskärs kraftigt, vilket förvärrar spänningarna",
+      "niva": 2
+    },
+    {
+      "artal": "1792",
+      "handelse": "Gustav III skjuts av Jacob Johan Anckarström på en maskeradbal på Kungliga Operan den 16 mars och dör den 29 mars",
+      "betydelse": "En av svensk historias mest dramatiska händelser. Mordet avslutar den gustavianska eran",
+      "niva": 1
+    },
+    {
+      "artal": "1808-1809",
+      "handelse": "Finska kriget - Ryssland erövrar Finland, som hade tillhört Sverige i över 600 år",
+      "betydelse": "Sveriges mest smärtsamma territoriella förlust. Katastrofen utlöser statskuppen mot Gustav IV Adolf",
+      "niva": 1
+    },
+    {
+      "artal": "1809",
+      "handelse": "Gustav IV Adolf avsätts genom en militärkupp i mars. Ny regeringsform antas den 6 juni med maktdelning mellan kung, riksdag och domstolar",
+      "betydelse": "Grunden läggs för modern svensk konstitutionell demokrati. Regeringsformen gäller i 165 år",
+      "niva": 1
+    }
+  ],
+
+  "karnfakta": {
+    "beskrivning": "Faktainnehåll i tre komplexitetsnivåer per sektion. Nivå 1 är grunden som alla elever behöver. Nivå 2 bygger på nivå 1 med djupare förståelse. Nivå 3 bygger på nivå 1+2 med syntes och kritiskt perspektiv. Genereringsagenten väljer nivå baserat på årskurs och elevprofil.",
+    "sektioner": [
+      {
+        "rubrik": "Frihetstidens början: riksdagen tar makten",
+        "niva_1": "Den 30 november 1718 dödades kung Karl XII vid belägringen av Fredrikstens fästning i Norge. En kula träffade honom i tinningen medan han stod i en löpgrav och inspekterade sina trupper. Med hans död slutade den svenska stormaktstiden. Landet var utmattat efter årtionden av krig - tusentals soldater hade dött, gårdarna stod öde och bönderna var fattiga.\n\nKarl XII:s syster Ulrika Eleonora tog över som drottning. Men riksdagen krävde att hon skulle acceptera en ny grundlag som begränsade hennes makt. Hon gick med på det och avstod sedan tronen till sin make, som blev kung Fredrik I.\n\nDen nya grundlagen från 1719 och 1720 gav riksdagen - inte kungen - den verkliga makten. Riksdagen bestod av fyra ständer: adel, präster, borgare och bönder. De samlades i Stockholm för att fatta beslut om lagar, skatter och krig. Kungen fick mest vara med och representera.\n\nPerioden som följde kallas frihetstiden och varade från 1719 till 1772. Det var ovanligt att ett parlament styrde - i de flesta europeiska länder bestämde kungen ensam.",
+        "niva_2": "Den nya maktordningen var en medveten reaktion mot Karl XII:s envälde, som hade drivit Sverige till randen av undergång. Konstitutionen utformades med tydliga spärrar: kungen hade en röst i riksrådet men inte vetorätt. Riksrådet - som fungerade som regering - kunde bara agera med riksdagens godkännande, och riksdagen sammanträdde regelbundet vart tredje år.\n\nDen dominerande politikern under frihetstidens första decennier var Arvid Horn, kanslipresident och ledare i riksrådet. Horn hade själv tjänat under Karl XII men drog slutsatsen att Sverige måste undvika krig och bygga upp landet i fred. Hans försiktiga politik gav Sverige andrum: handeln växte, befolkningen ökade och städerna utvecklades. Horns krets kallades nedlåtande för 'nattmössor' av sina motståndare, som ansåg att Sverige borde föra en mer kraftfull politik.\n\nTrots att riksdagen hade mer makt än i de flesta europeiska länder var det inte demokrati i modern mening. Tjänstefolk, drängar och pigor, ogifta kvinnor utan egendom och de allra fattigaste saknade helt representation. Adelsståndet hade oproportionerligt inflytande. Dessutom utestängdes bönderna ofta från de viktigaste överläggningarna i hemliga utskott.\n\nRiksdagsmötena var långa och kaotiska. Delegaterna debatterade i månader. Utländska makter - framför allt Frankrike och Ryssland - arbetade aktivt för att påverka riksdagens beslut genom mutor. Franska och ryska ambassadörer betalade riksdagsmän för att rösta i deras intresse, en praxis som var känd men svår att stoppa.",
+        "niva_3": "Frihetstidens konstitutionella experiment var anmärkningsvärt i sitt europeiska sammanhang. Medan Frankrike under Ludvig XV, Preussen under Fredrik den store och Ryssland under tsarinnorna utvecklade allt starkare envälden gick Sverige den motsatta vägen. Bara England, med sin parlamentariska tradition sedan 1689, hade en jämförbar begränsning av kungamakten. Men medan det engelska parlamentet delade makten med kungen hade den svenska riksdagen i praktiken tagit över hela styrelseapparaten.\n\nDenna maktordning hade strukturella styrkor och svagheter. Styrkan låg i att beslut förankrades brett - riksdagen representerade åtminstone delar av samhället och debatterna var öppna. Svagheten låg i beslutsprocessens tröghet: viktiga avgöranden kunde dröja i månader medan stånden förhandlade. I en tid då Sverige fortfarande hade fiender som Ryssland och Danmark var denna långsamhet potentiellt farlig.\n\nDen utländska inblandningen i svensk inrikespolitik väcker en fråga som fortfarande är aktuell: vad händer med ett lands självbestämmande när utländska makter aktivt påverkar det politiska systemet? Under frihetstiden flödade franska livres och ryska rubel till svenska riksdagsmän. Frankrike stödde hattarna eftersom ett aktivt Sverige band ryska resurser i norr. Ryssland stödde mössorna för att hålla Sverige svagt. Att riksdagsmännens röster kunde köpas underminerade systemets legitimitet och gav ammunition åt dem som argumenterade för en stark kung.\n\nEn kritisk analys av frihetstiden bör också granska vems frihet det handlade om. 'Friheten' gällde primärt den politiska eliten - adeln, de rikare borgarna och prästerskapet - som befriade sig från kungligt godtycke. För torpare, tjänstefolk och fattiga innebar frihetstiden inte nödvändigtvis mer personlig frihet. Ståndssamhällets hierarki bestod. Denna selektiva frihet illustrerar en återkommande historisk mekanism: de som kämpar mot en auktoritär makt vill inte nödvändigtvis utvidga friheten till alla.\n\nFrihetstidens arv är ändå betydelsefullt. Perioden etablerade principen att makt kan utövas genom valda representanter, att konstitutioner kan begränsa härskare och att politisk debatt är en legitim form av styrning. Dessa principer överlevde Gustav III:s kupp och återkom i starkare form i 1809 års grundlag."
+      },
+      {
+        "rubrik": "Hattar och mössor: Sveriges första partier",
+        "niva_1": "Under frihetstiden uppstod två grupper som kämpade om makten i riksdagen: hattarna och mössorna.\n\nHattarna ville att Sverige skulle vara starkt som under stormaktstiden. De startade fabriker och handelskompanier, byggde ut handelsflottan och allierade sig med Frankrike. Mössorna tyckte att hattarna var för äventyrliga och ville istället ha fred, spara pengar och vara försiktiga.\n\nPartinamnen var öknamn. Hattarna kallades så för att de ville 'bära hatten' och bestämma - som en modig soldat med trekantig hatt. Mössorna kallades 'nattmössor' av sina motståndare, ett hån som antydde att de var sömniga och fega.\n\nHattarna styrde riksdagen från 1738 till 1765. Under deras tid blomstrade handeln och vetenskapen - Carl von Linné reste genom Sverige och ordnade växter och djur i ett system, och Anders Celsius skapade sin temperaturskala. Men hattarna startade också ett misslyckat krig mot Ryssland 1741-1743 som slutade med förlust av mark i Finland.\n\nSedan tog mössorna över och styrde fram till Gustav III:s kupp 1772.",
+        "niva_2": "Partiernas sociala baser avslöjar vilka intressen de representerade. Hattarnas anhängare fanns bland den högre adeln, storkaufmännen i Stockholm och Göteborg, samt ägarna av de nya manufakturerna. De drev en merkantilistisk politik: subventioner till fabriker, skyddstullar mot utländska varor och ett aktivt Ostindiskt kompani som handlade med Kina. Mössornas stöd kom från lägre präster, mindre jordägare och bönder i landsorterna som mindes Arvid Horns fredsår.\n\nUtrikespolitiskt orienterade sig hattarna mot Frankrike, dåtidens starkaste makt, medan mössorna sökte stöd hos Ryssland och Storbritannien. I praktiken innebar detta att båda partierna finansierades med utländska pengar - franska ambassadörer delade ut guld till hattarnas riksdagsmän, ryska agenter betalade mössornas.\n\nHattarnas krig mot Ryssland 1741-1743 blev ett fiasko. Den svenska armén besegrades grundligt och Sverige tvingades avträda delar av sydöstra Finland. Trots detta behöll hattarna makten i ytterligare tjugo år, delvis tack vare franskt stöd och skicklig propaganda.\n\nUnder mössornas tid vid makten genomfördes en av frihetstidens viktigaste reformer: tryckfrihetsförordningen 1766. Den österbottniske prästen och riksdagsmannen Anders Chydenius argumenterade framgångsrikt för att alla medborgare skulle ha rätt att publicera sina åsikter och ta del av offentliga handlingar. Chydenius var en anmärkningsvärd tänkare som formulerade idéer om ekonomisk frihet och fri handel som liknade Adam Smiths, men tio år före 'Nationernas välstånd' publicerades.\n\nPerioden präglades också av ett vetenskapligt uppsving. Linné blev världsberömd, Celsius mätte temperatur, kemisten Carl Wilhelm Scheele upptäckte syre, och uppfinnaren Christopher Polhems mekaniska verkstad i Stjärnsund visade vägen för svensk teknikutveckling.",
+        "niva_3": "Hattar och mössor var inte partier i modern mening - de saknade partiprogram, formellt medlemskap och fast organisation. Snarare var de lösa koalitioner av intressegrupper som samarbetade för att kontrollera riksdagen. Ändå representerade de ett tidigt steg mot organiserad politisk konkurrens, och deras existens visar att politisk pluralism kan uppstå ur institutionella förutsättningar - i det här fallet riksdagens makt - utan en bakomliggande demokratisk ideologi.\n\nDen utländska finansieringen reser frågor som har paralleller i moderna demokratier. Frankrike spenderade enorma summor på att hålla hattarna vid makten, eftersom ett aggressivt Sverige band ryska resurser i norr och avlastade Frankrike i Europa. Ryssland stödde mössorna av motsatt skäl - ett fredligt Sverige innebar att Ryssland kunde koncentrera sina styrkor söderut. Att riksdagsmännens röster kunde köpas underminerade systemets legitimitet inifrån.\n\nVetenskapens blomstring under frihetstiden förtjänar en djupare analys. Linné, Celsius, Scheele och Polhem verkade alla under en period av relativ intellektuell frihet. Manufakturpolitiken skapade en miljö där praktisk kunskap värderades. Den begynnande offentligheten - tidningar, pamfletter, kaffehusdiskussioner - bidrog till ett klimat där nya idéer kunde spridas och debatteras. Att tryckfriheten sedan formaliserades 1766 var inte en slump utan en konsekvens av denna intellektuella infrastruktur.\n\nKvinnors roll under frihetstiden var begränsad men inte obefintlig. Hedvig Charlotta Nordenflycht, en av Sveriges första framstående kvinnliga författare, ledde en litterär salong i Stockholm under 1750-talet där poeter och tänkare samlades. Änkor som drev handel hade viss representation genom borgarståndet. Men i det stora hela var den frihetstida offentligheten en manlig arena - den politiska friheten gällde specifikt män med egendom och ställning.\n\nAnalysen av hattar och mössor bör slutligen beakta hur perioden har brukats i efterhand. Under 1800-talets demokratiska debatter användes frihetstiden ibland som bevis för en gammal svensk parlamentarisk tradition, medan kritiker pekade på korruptionen som bevis för att parlamentarism var opålitligt. Samma historiska period kunde alltså användas för att argumentera både för och emot demokrati, beroende på vilka aspekter man betonade."
+      },
+      {
+        "rubrik": "Gustav III:s statskupp och den gustavianska tiden",
+        "niva_1": "Gustav III blev kung år 1771, bara 25 år gammal. Han var en intelligent och charmerande ung man som älskade teater och kultur. Men framför allt tyckte han att frihetstidens riksdag styrde Sverige dåligt - partierna bråkade, utländska makter bestämde för mycket och ingenting verkade bli gjort.\n\nDen 19 augusti 1772 agerade Gustav. Han tog på sig sin uniform, red till garnisonen i Stockholm och höll ett eldigt tal som fick soldaterna att följa honom. Sedan marscherade han med trupperna till Kungliga slottet. Riksråden arresterades. Inte ett enda skott avlossades.\n\nDagen efter tvingade Gustav riksdagen att godkänna en ny grundlag som gav kungen tillbaka makten. Han bestämde nu över utrikespolitik, utsåg ämbetsmän och styrde regeringen. Men riksdagen behöll rätten att bestämma om nya skatter och lagar.\n\nUnder de första åren genomförde Gustav populära reformer: tortyren avskaffades, religionsfriheten utvidgades och svenskt kulturliv blomstrade. Han grundade Kungliga Operan 1773 och Svenska Akademien 1786.",
+        "niva_2": "Kuppen var planerad i detalj. Gustav hade knutit kontakter bland militärer och yngre officerare som var missnöjda med riksdagens styre. Han utnyttjade splittringen mellan hattar och mössor - partierna misstrodde varandra så starkt att de inte kunde enas mot kungen. Den franska ambassadören hade till och med förmedlat pengar till Gustav, eftersom Frankrike ville ha en starkare svensk kung som motvikt mot Ryssland.\n\nKungliga Operan - invigd 1773 med sopranisten Elisabeth Olin i huvudrollen - blev en symbol för den gustavianska kulturblomstringen. Gustav III omgav sig med konstnärer och intellektuella: poeten och kritikern Johan Henrik Kellgren, trubaduren Carl Michael Bellman som sjöng om Stockholms vardagsliv vid Djurgårdens krogar, och konstnären Carl Gustaf Pilo. Gustav själv skrev teaterpjäser och arrangerade storslagna tillställningar.\n\nMen bakom den kulturella glansen hårdnade den politiska verkligheten. Gustav III ville ha mer makt. Kriget mot Ryssland 1788-1790 - som Gustav startade utan riksdagens godkännande - blottade konflikterna. Vid Anjala i Finland skrev över hundra officerare ett brev där de vägrade lyda kungens order och krävde fred. Anjalaförbundet visade att delar av adeln och militären aktivt motarbetade kungen.\n\nKriget slutade utan territoriella förändringar vid freden i Värälä 1790, men priset var högt: statskassan var tom och förtroendet för kungen skadat. Gustav svarade med att stärka sin makt ytterligare. Genom Förenings- och säkerhetsakten 1789 - antagen med stöd av de ofrälse stånden mot adelns vilja - blev han i praktiken enväldig härskare. Adelns privilegier beskars kraftigt. Spänningarna mellan kung och adel nådde en bristningspunkt.",
+        "niva_3": "Gustav III brukar beskrivas som en 'upplyst despot' - en härskare som genomförde progressiva reformer men utan demokratiskt mandat. Han avskaffade tortyr, utvidgade religionsfriheten och främjade kultur och vetenskap. Samtidigt koncentrerade han systematiskt makten i egna händer och tolererade inte opposition. Denna paradox - liberal i reformer, auktoritär i metoder - är central för att förstå den gustavianska tiden.\n\nKuppen 1772 kan analyseras som en konflikt mellan två principer: representativt styre och effektivt ledarskap. Gustav och hans anhängare hävdade att riksdagen var korrupt, splittrad och handlingsförlamad - argument som hade visst fog. Men lösningen - att en enskild person tar makten - skapade nya problem: utan institutionella kontroller fanns inget som hindrade kungen från att gå för långt.\n\nJämförelsen med samtida Europa är belysande. Samma år som Gustav III genomförde sin kupp delades Polen mellan Ryssland, Preussen och Österrike - ett land vars riksdag var ännu mer handlingsförlamad. Några år senare bröt den amerikanska revolutionen ut (1776) och den franska (1789), båda med krav på begränsad kungamakt och medborgerliga rättigheter. Gustav III följde den motsatta trenden - han stärkte kungamakten - men använde upplysningens språk för att motivera det.\n\nAnjalaförbundet 1788 belyser konflikten ur militärens perspektiv. Officerarna var inte demokrater - de var adelsmän som försvarade sina privilegier. Men deras vägran att följa kungens olagliga krigsorder aktualiserar frågan om lydnadsplikt: är en soldat skyldig att följa order som strider mot grundlagen? Frågan fick inget entydigt svar under Gustav III:s tid men återkom i 1809 års konstitutionella uppgörelse.\n\nEn aspekt som ofta förbises är den gustavianska tidens kulturella betydelse bortom hovkretsen. Bellmans diktning gestaltade Stockholms vardagsliv - sjömän, hantverkare och kroggäster - i en tid då de flesta litterära verk handlade om kungar och hjältar. Den gustavianska pressen, trots inskränkt tryckfrihet, skapade en begynnande offentlig debatt. Dessa kulturyttringar överlevde den politiska krisen och blev del av den svenska kulturidentiteten."
+      },
+      {
+        "rubrik": "Mordet på Gustav III 1792",
+        "niva_1": "Natten den 16 mars 1792 hölls en stor maskeradbal på Kungliga Operan i Stockholm. Hundratals gäster i masker och fantasifulla kostymer fyllde den stora salen. Bland dem var kung Gustav III.\n\nEn grupp missnöjda adelsmän hade bestämt sig för att döda kungen. De ansåg att han tagit för mycket makt och förtryckte adeln. En av dem, Jacob Johan Anckarström, fick uppdraget att utföra dådet. Han hade gömt en pistol under sin kappa.\n\nI trängseln kom Anckarström nära kungen bakifrån och sköt. Gustav III träffades och föll. Hans berömda ord ska ha varit: 'Jag är blesserad - tag fast honom.'\n\nKungen fördes till sina rum men skadorna var för svåra. Den 29 mars dog Gustav III, tretton dagar efter attentatet. Han var 45 år gammal.\n\nAnckarström greps och avrättades. Flera andra adelsmän som deltagit i konspirationen dömdes till fängelse eller landsförvisning.\n\nGustav III:s son, Gustav Adolf, var bara tretton år gammal. En förmyndarregering under kungens bror hertig Karl tog över styret av landet.",
+        "niva_2": "Mordet var resultatet av en adelskonspiration som hade vuxit fram under flera år. Gustav III:s Förenings- och säkerhetsakt 1789 hade krossat adelns privilegier - skattefrihet, ensamrätt till höga ämbeten och domstolsimmunitet hade begränsats eller tagits bort. En grupp adelsmän, bland dem Claes Fredrik Horn, Adolph Ludvig Ribbing och Jacob Johan Anckarström, bestämde sig för att avlägsna kungen.\n\nKonspiratörerna visste att Gustav III planerade att besöka maskeraden. De skickade till och med ett anonymt varningsbrev till kungen med uppmaningen att inte gå dit. Men Gustav läste brevet och gick ändå - av stolthet, mod eller kanske en önskan att visa att han inte lät sig skrämmas.\n\nAnckarström hade förberett sitt vapen noggrant. Pistolen var laddad med hackiga blystycken och rostiga järnstift för att orsaka maximal skada. I den maskklädda folkmassan kunde han komma tätt inpå kungen utan att väcka misstanke. Skottet träffade Gustav III i vänstra höften och sidan.\n\nTrots attacken visade kungen lugn och leddes ut ur salen stödd mot sina vänner. Läkarna hoppades först att han skulle överleva, men infektionen spreds och efter tretton dagars lidande avled han.\n\nMordet sände en chockvåg genom Europa - att en kung kunde mördas av sin egen adel var omskakande i en tid då monarkins ställning redan ifrågasattes av den pågående franska revolutionen.\n\nMordet skapade en period av politisk osäkerhet. Hertig Karl, den blivande Karl XIII, styrde som förmyndare men saknade sin brors karisma och energi. Tryckfriheten inskränktes ytterligare och den utlovade reformpolitiken avstannade.",
+        "niva_3": "Mordet på Gustav III blev en av de mest mytomspunna händelserna i svensk historia och fick ett rikt kulturellt efterliv. Kompositören Giuseppe Verdi baserade sin opera 'Un ballo in maschera' (En maskeradbal, 1859) på händelsen, om än med förändrad handling av censurskäl. I svensk konst och litteratur har maskeradbalen återkommit otaliga gånger som en symbol för makt, bedrägeri och öde.\n\nEn djupare analys av mordet bör beakta den sociala sammansättningen bland konspiratörerna. Det var uteslutande adelsmän - inte vanligt folk, inte borgare, inte bönder. Deras motiv var primärt att försvara adelns förlorade privilegier, inte att utvidga friheten till alla. Mordet var alltså inte en demokratisk handling utan en elitkonflikt - en kamp mellan kungamakt och adelsmakt där folket var åskådare. Denna insikt nyanserar den bild av mordet som ibland framställs som ett slag för friheten.\n\nFrågan om politiskt våld aktualiseras oundvikligen. Var mordet moraliskt försvarbart? Konspiratörerna ansåg att Gustav III hade brutit samhällskontraktet genom att göra sig till enväldig härskare. Men metoden - lönnmord på en maskerad - saknade all rättslig legitimitet och ledde inte till det resultat de önskade. Istället för ökad adelsmakt följde en period av reaktionärt styre under förmyndarregeringen. Mordet kan ses som kontraproduktivt: det förstörde möjligheten till en förhandlad lösning och skärpte konflikten.\n\nJämförelsen med andra politiska mord i europeisk historia - Julius Caesar, Henrik IV av Frankrike, och senare Alexander II av Ryssland - visar ett mönster: attentaten löser sällan de underliggande problemen utan skapar nya. I Gustav III:s fall ledde mordet till en förlamad förmyndarperiod, sedan till Gustav IV Adolfs inkompetenta styre, och slutligen till en ny statskupp 1809. Ironiskt nog var det konstitutionen som växte ur krisen 1809 - inte mordet 1792 - som verkligen begränsade kungamakten.\n\nDet är också värt att reflektera över vem som minns vad. Gustav III ihågkoms som kulturkung och mordoffer, medan Anckarström ihågkoms som mördare. Konspiratörernas politiska argument har i stor utsträckning glömts. Historien har dömt mordet som ett brott snarare än som ett politiskt ställningstagande - ett mönster som visar att metoden ofta överskuggar motivet i det historiska minnet."
+      },
+      {
+        "rubrik": "Gustav IV Adolfs fall och 1809 års grundlag",
+        "niva_1": "Gustav III:s son, Gustav IV Adolf, tog makten som vuxen 1796. Han var envis och ville bestämma allt själv, utan att lyssna på rådgivare.\n\nNär den franske härföraren Napoleon härjade i Europa vägrade Gustav IV Adolf att samarbeta med honom. Det var modigt men farligt. År 1808 anföll Ryssland Sverige och erövrade Finland - ett område som hade tillhört Sverige i över 600 år. Förlusten var ett hårt slag.\n\nMilitären hade fått nog. I mars 1809 marscherade generalmajor Georg Adlersparre med sina trupper från Karlstad mot Stockholm. Samtidigt arresterade andra officerare kungen i hans eget palats. Gustav IV Adolf tvingades avgå och skickades i landsflykt.\n\nNu behövdes en ny grundlag. En kommitté skrev 1809 års regeringsform, som delade makten mellan kungen, riksdagen och domstolarna. Ingen av dem fick bestämma ensam.\n\nKarl XIII - Gustav III:s gamle bror - blev ny kung. Men han var gammal och sjuklig. Året efter valde riksdagen den franske marskalken Jean Baptiste Bernadotte till kronprins. Bernadotte blev sedan kung Karl XIV Johan och grundade den kungaätt som fortfarande sitter på Sveriges tron.",
+        "niva_2": "Gustav IV Adolfs styre präglades av rigid envishet. Han vägrade ingå allians med Napoleon, trots att det hade kunnat rädda Finland. Hans motivering var moralisk - han betraktade Napoleon som en usurpator och vägrade kompromissa med det han såg som ondska. Men konsekvenserna var strategiskt förödande: Sverige stod utan allierade när Ryssland anföll.\n\nFinska kriget 1808-1809 blev en katastrof. Ryska trupper överskred den frusna Ålands hav och hotade Stockholm. Den svenska armén kämpade tappert - vid Jutas och Oravais i Finland utkämpades blodiga slag - men var numerärt underlägsen. Fredstraktaten i Fredrikshamn i september 1809 bekräftade Finlands förlust.\n\nGeorg Adlersparre, som ledde det militära upproret, hade stöd bland västra arméns officerare. Parallellt agerade en grupp officerare i Stockholm under Carl Johan Adlercreutz, som personligen arresterade Gustav IV Adolf på slottet den 13 mars 1809.\n\n1809 års regeringsform utarbetades av en konstitutionskommitté under ledning av Lars August Mannerheim. Den vilade på maktdelningsprincipen inspirerad av Montesquieus idéer: kungen styrde riket men delade makten med riksdagen som lagstiftare och domstolarna som dömande makt. Kungen fick inte ensam förklara krig eller ingå fred. Medborgerliga rättigheter som tryckfrihet och personlig frihet skrevs in.\n\nGrundlagen antogs den 6 juni 1809 och visade sig anmärkningsvärt hållbar: den gällde till 1974. Under dessa 165 år anpassades den successivt - tvåkammarriksdag 1866, allmän rösträtt 1921 - men grundstrukturen bestod.\n\nValet av Bernadotte till kronprins 1810 var pragmatiskt: Sverige behövde en stark militär ledare med internationella kontakter. Att en fransk marskalk blev svensk tronföljare visar hur desperat läget var men också den svenska elitens pragmatism.",
+        "niva_3": "1809 års konstitution kan förstås som kulmen på ett sekel av konstitutionella experiment. Sverige hade under perioden 1719-1809 prövat tre radikalt olika styrelseskick: riksdagsdominans (frihetstiden), kungligt envälde (Gustav III) och inkompetent autokrati (Gustav IV Adolf). Varje system hade misslyckats, och konstitutionskommittén 1809 hade den unika fördelen att kunna lära av samtliga misstag.\n\nFrån frihetstiden tog de lärdomen att parlamentarisk makt utan motvikt leder till handlingsförlamning och utländsk inblandning. Från den gustavianska tiden tog de insikten att okontrollerad kungamakt leder till godtycke, krig och mord. Från Gustav IV Adolfs tid tog de beviset att en inkompetent envåldshärskare kan förstöra ett helt land. 1809 års svar - maktdelning - var inte en abstrakt filosofisk princip utan en praktisk slutsats baserad på bitter erfarenhet.\n\nFörlusten av Finland var mer än en militär katastrof; den tvingade fram en grundläggande omprövning av svensk identitet. I över 600 år hade Finland varit en integrerad del av det svenska riket. Tusentals svensktalande familjer levde i Finland, och finska soldater hade kämpat i svenska arméer. Förlusten skapade ett nationellt trauma som påverkade svensk politik och kultur i decennier. Sverige tvingades omdefiniera sig som en skandinavisk stat istället för en Östersjömakt.\n\nBernadottes val till kronprins 1810 illustrerar den pragmatism som präglade den svenska eliten under krisen. Att importera en utländsk fältmarskalk som tronföljare var djärvt men logiskt. Att Bernadotte sedan allierade sig med Ryssland mot Napoleon - trots sin franska bakgrund - visar hur snabbt geopolitiska kalkyler kunde skifta under denna turbulenta period.\n\nPeriodens konstitutionella arv sträcker sig ända till vår tid. 1809 års princip om maktdelning återfinns i den nuvarande grundlagen från 1974. Tryckfrihetsförordningen, med rötter i 1766 års lag, är fortfarande en av Sveriges grundlagar. Offentlighetsprincipen, som Chydenius kämpade fram, är en internationellt unik del av det svenska rättssystemet. Perioden 1719-1809 lade med andra ord grunden för det demokratiska Sverige - inte genom en enda dramatisk händelse utan genom en sekelslång process av misstag, korrigeringar och gradvis lärande."
+      }
+    ]
+  },
+
+  "samband_och_resonemang": {
+    "orsak_verkan": [
+      {
+        "niva": 1,
+        "orsak": "Karl XII:s krig utarmade Sverige - soldater dog, gårdar stod öde och landet var fattigt",
+        "verkan": "Riksdagen bestämde att kungen inte längre fick ha all makt och tog över styret av Sverige",
+        "resonemangsstod": "Enkelt samband med ett led: krigens konsekvenser ledde direkt till en ny maktordning"
+      },
+      {
+        "niva": 1,
+        "orsak": "Gustav III tyckte att riksdagen styrde Sverige dåligt - partierna bråkade och utlandet bestämde för mycket",
+        "verkan": "Han genomförde en statskupp 1772 och tog tillbaka makten från riksdagen",
+        "resonemangsstod": "Enkelt samband: missnöje med systemet ledde till handling"
+      },
+      {
+        "niva": 2,
+        "orsak": "Gustav III:s Förenings- och säkerhetsakt 1789 tog bort adelns privilegier, samtidigt som kriget mot Ryssland och kungens ökande envälde skapade bred opposition bland adelsmännen",
+        "verkan": "En grupp adelsmän konspirerade och lät Anckarström mörda Gustav III på maskeraden 1792, vilket ledde till en period av politisk osäkerhet under förmyndarregeringen",
+        "resonemangsstod": "Utvecklat samband: flera orsaker samverkar - förlorade privilegier, krig och envälde driver fram en konspiration med oväntade konsekvenser"
+      },
+      {
+        "niva": 2,
+        "orsak": "Gustav IV Adolfs vägran att kompromissa med Napoleon kombinerad med Rysslands expansionsambitioner lämnade Sverige utan allierade",
+        "verkan": "Sverige förlorade Finland i kriget 1808-1809, kungen avsattes av sina egna officerare och en ny grundlag skrevs",
+        "resonemangsstod": "Utvecklat samband: utrikespolitisk isolering och militärt nederlag utlöser både statskupp och konstitutionell reform"
+      },
+      {
+        "niva": 3,
+        "orsak": "En sekelslång pendling mellan riksdagsmakt (frihetstiden) och kungamakt (Gustav III) med upprepade kriser - korruption, utländsk inblandning, envälde, mord och militära katastrofer",
+        "verkan": "1809 års regeringsform som konstitutionell kompromiss med maktdelningsprincip, designad för att förhindra både riksdagstyranni och kungligt envälde - en lösning som visade sig hållbar i 165 år",
+        "resonemangsstod": "Välutvecklat samband: strukturella orsaker över lång tid leder till en konstitutionell lärprocess. Varje misslyckande bidrog med en lektion som inarbetades i den slutliga lösningen"
+      }
+    ],
+    "jamforelser": [
+      {
+        "niva": 1,
+        "jamfor": "Vem bestämde under frihetstiden jämfört med under Gustav III:s tid",
+        "likheter": "Sverige hade fortfarande en kung och en riksdag under båda perioderna",
+        "skillnader": "Under frihetstiden bestämde riksdagen det mesta och kungen hade lite makt. Under Gustav III bestämde kungen och riksdagen hade mindre att säga till om"
+      },
+      {
+        "niva": 2,
+        "jamfor": "Gustav III:s kupp 1772 och officerernas kupp 1809",
+        "likheter": "Båda var olagliga maktövertaganden genomförda med militärt stöd, motiverade med att det rådande systemet hade misslyckats",
+        "skillnader": "Gustav III:s kupp koncentrerade makten till kungen, medan kuppen 1809 spred makten genom maktdelning. Gustav III tog makten för egen del, medan officerarna 1809 avsatte kungen och lämnade makten till en konstitutionskommitté. Den ena kuppen ökade enväldets makt, den andra begränsade den"
+      },
+      {
+        "niva": 3,
+        "jamfor": "Sveriges konstitutionella utveckling 1719-1809 och den franska revolutionen 1789",
+        "likheter": "Båda handlade om att begränsa kungamakten och skapa konstitutionella ramar för styrelseskicket. Båda inspirerades av upplysningens idéer om maktdelning och medborgerliga rättigheter",
+        "skillnader": "Sveriges process var gradvis och utdragen över ett sekel med flera misslyckanden och korrigeringar. Frankrikes revolution var en abrupt och våldsam omvälvning som ledde till terror, diktatur under Napoleon och slutligen restauration. Sveriges 1809 års grundlag överlevde i 165 år; Frankrikes revolutionära konstitutioner ersatte varandra i snabb takt. Jämförelsen antyder att gradvisa konstitutionella förändringar kan vara mer hållbara än revolutionära brott"
+      }
+    ],
+    "kontinuitet_forandring": [
+      {
+        "niva": 1,
+        "aspekt": "Vem bestämde i Sverige",
+        "kontinuitet": "Sverige hade alltid en kung och en riksdag under hela perioden 1719-1809. Landet styrdes fortfarande av ständerna - adel, präster, borgare och bönder.",
+        "forandring": "Makten pendlade fram och tillbaka: först hade riksdagen mest makt (frihetstiden), sedan kungen (Gustav III), och till sist delades makten mellan dem (1809). Vid periodens slut hade maktdelningen blivit princip."
+      },
+      {
+        "niva": 2,
+        "aspekt": "Riksdagens roll och makt",
+        "kontinuitet": "Riksdagen fortsatte att sammanträda under hela perioden och behöll alltid någon form av inflytande, även under Gustav III. Rätten att besluta om skatter förblev hos riksdagen genom alla regimskiften.",
+        "forandring": "Riksdagens faktiska makt varierade dramatiskt: från att vara det mäktigaste organet under frihetstiden, till att vara reducerat under Gustav III, till att dela makten jämbördigt med kungen efter 1809. Riksdagens sammansättning och arbetsformer förändrades gradvis mot mer formaliserade processer."
+      },
+      {
+        "niva": 3,
+        "aspekt": "Idén om begränsad makt och konstitutionellt styre",
+        "kontinuitet": "Genom hela perioden fanns tanken att makten bör ha gränser - även under Gustav III:s envälde erkändes principen att kungen styrde under lagar, även om han i praktiken bröt mot den. Idén om konstitutionellt styre försvann aldrig helt utan återkom starkare efter varje kris.",
+        "forandring": "Formuleringen av maktbegränsningen förändrades grundläggande. Under frihetstiden begränsades kungamakten genom att flytta makten till riksdagen. 1809 ersattes denna lösning av maktdelningsprincipen - en mer sofistikerad modell där ingen enskild institution har oinskränkt makt. Denna förändring representerar en djupare konstitutionell mognad: från att flytta makt mellan institutioner till att dela och balansera den."
+      }
+    ]
+  },
+
+  "historiska_kallor": {
+    "relevanta_kalltyper": [
+      {
+        "kalltyp": "Riksdagsprotokoll och tryckta debatter från frihetstiden",
+        "vad_de_berattar": "Hur riksdagen debatterade och fattade beslut, vilka frågor som engagerade stånden och hur hattar och mössor argumenterade mot varandra.",
+        "begransningar": "Protokollen ger den officiella versionen av debatterna. Hemliga förhandlingar, mutor och utländsk påverkan framgår inte. Dessutom utestängdes bönderna ofta från de viktigaste utskotten, så deras perspektiv är underrepresenterat.",
+        "niva": 1
+      },
+      {
+        "kalltyp": "Gustav III:s brev, tal och teaterpjäser",
+        "vad_de_berattar": "Hur kungen tänkte, planerade och legitimerade sin politik. Hans tal vid kuppen 1772 visar hur han framställde sig själv som nationens räddare.",
+        "begransningar": "Gustav III var medveten om sin publik och formade aktivt sin egen bild. Hans brev och tal är lika mycket propaganda som historisk dokumentation.",
+        "niva": 1
+      },
+      {
+        "kalltyp": "Tryckta tidningar, pamfletter och politiska flygblad",
+        "vad_de_berattar": "Den offentliga debatten under frihetstiden och efter tryckfrihetsförordningen 1766. Ger inblick i vilka frågor som engagerade den läskunniga allmänheten.",
+        "begransningar": "Bara den läskunniga minoriteten nåddes av tryckta medier. Tidningarnas partiskhet - ofta finansierade av hattar eller mössor - gör dem till ensidiga källor. Under Gustav III:s tid censurerades pressen.",
+        "niva": 2
+      },
+      {
+        "kalltyp": "Carl Michael Bellmans sånger och dikter",
+        "vad_de_berattar": "Stockholms vardagsliv under den gustavianska tiden: krogmiljöer, hantverkare, sjömän, fattigdom och livsglädje. Ger en bild av livet utanför hovet och riksdagen.",
+        "begransningar": "Bellman var konstnär, inte rapportör. Hans karaktärer är stiliserade och hans Stockholm är poetiskt snarare än dokumentärt. Man måste skilja mellan den konstnärliga gestaltningen och den historiska verkligheten.",
+        "niva": 2
+      },
+      {
+        "kalltyp": "Rättegångsprotokoll efter mordet på Gustav III",
+        "vad_de_berattar": "Detaljer om konspirationen, de anklagades motiv, planering och genomförande. Ger unika inblickar i adelns politiska opposition.",
+        "begransningar": "Protokollen författades av det segrande partiets jurister. De anklagade kan ha anpassat sina utsagor under press. Rättegången var politisk - syftet var att straffa och avskräcka, inte att ge en balanserad bild.",
+        "niva": 3
+      }
+    ],
+    "kallkritiska_fragor": [
+      {
+        "fraga": "Vem skrev denna källa och för vems räkning?",
+        "niva": 1
+      },
+      {
+        "fraga": "Gustav III:s tal vid kuppen 1772 framställer honom som Sveriges räddare. Kan vi lita på att det stämmer, eller hade han andra skäl?",
+        "niva": 1
+      },
+      {
+        "fraga": "Varför har vi fler bevarade källor från kungar, adelsmän och politiker än från vanliga stockholmare under 1700-talet?",
+        "niva": 2
+      },
+      {
+        "fraga": "Kan Bellmans sånger användas som historisk källa om 1700-talets Stockholm? Vilka möjligheter och begränsningar har de som källa?",
+        "niva": 3
+      },
+      {
+        "fraga": "Hur påverkas vår bild av mordet på Gustav III av att rättegångsprotokollet skrevs av dem som dömde konspiratörerna? Vilka perspektiv saknas?",
+        "niva": 3
+      }
+    ]
+  },
+
+  "historiebruk": {
+    "exempel": [
+      {
+        "sammanhang": "Gustav III som kulturkung i svenska skolböcker",
+        "hur_historia_brukas": "Gustav III framställs ofta som en kulturpersonlighet som grundade operan och akademien, med mordet som ett tragiskt slut. Han porträtteras som en upplyst kung som ville Sveriges bästa.",
+        "kritisk_reflektion": "Denna bild tonar ner att Gustav III var en envåldshärskare som genomförde en statskupp, startade krig utan tillstånd och avskaffade adelns rättigheter. Kulturkungsbilden gör det svårt att se den politiska maktkampen bakom fasaden.",
+        "niva": 1
+      },
+      {
+        "sammanhang": "Maskeradbalmordet i konst och populärkultur",
+        "hur_historia_brukas": "Mordet har inspirerat operor (Verdis 'Un ballo in maschera'), romaner och filmer. Det dramatiska scenariot - maskerad, hemligheter, skott i natten - gör det till en fängslande berättelse som ständigt återberättas.",
+        "kritisk_reflektion": "Den konstnärliga gestaltningen fokuserar på dramatiken snarare än de politiska orsakerna. Mordet blir underhållning istället för en händelse att analysera. Konspiratörernas argument försvinner bakom den spännande berättelsen.",
+        "niva": 2
+      },
+      {
+        "sammanhang": "1809 som utgångspunkt för svensk demokrati",
+        "hur_historia_brukas": "1809 års regeringsform framhålls ibland som grunden för den moderna svenska demokratin. Regeringsformen antogs den 6 juni, samma datum som nationaldagen.",
+        "kritisk_reflektion": "Att lyfta fram 1809 som demokratins startpunkt döljer att regeringsformen skapades av en liten elit utan folkligt inflytande, och att verklig demokrati med allmän rösträtt dröjde till 1900-talet. Kopplingen till nationaldagen gör det lätt att överdriva dokumentets demokratiska karaktär.",
+        "niva": 2
+      },
+      {
+        "sammanhang": "Frihetstiden som förebild eller varnande exempel i demokratidebatten",
+        "hur_historia_brukas": "Under 1800-talets demokratiska debatter användes frihetstiden på motsatta sätt: demokratiförespråkare pekade på den som bevis för en gammal svensk parlamentarisk tradition, medan motståndare använde korruptionen och det utländska inflytandet som bevis för att parlamentarism var farligt.",
+        "kritisk_reflektion": "Att samma historiska period kan användas för att argumentera både för och emot demokrati avslöjar något grundläggande om historiebruk: det handlar alltid om urval och tolkning. Vilka aspekter av frihetstiden man betonar beror på vilken politisk slutsats man vill dra. Detta gäller historiebruk generellt.",
+        "niva": 3
+      }
+    ]
+  },
+
+  "tvaramnes_kopplingar": [
+    {
+      "till_amne": "Samhällskunskap",
+      "block_id": "SH-46-L1",
+      "koppling": "Frihetstidens riksdagsstyre som ett tidigt exempel på demokrati - med tydliga begränsningar som belyser vad demokrati egentligen innebär",
+      "hur": "Genom att jämföra frihetstidens riksdag med modern demokrati kan elever förstå att demokrati inte är ett enkelt begrepp utan handlar om frågor som: vem får vara med och bestämma? Hur fattas beslut? Vad händer när systemet inte fungerar? Frihetstidens brister - korruption, uteslutning, utländsk påverkan - är relevanta även för moderna demokratier."
+    },
+    {
+      "till_amne": "Samhällskunskap",
+      "block_id": "SH-46-L2",
+      "koppling": "Riksdagens och regeringens roller har sina rötter i den maktfördelning som etablerades genom 1809 års regeringsform",
+      "hur": "Dagens uppdelning mellan riksdagen som lagstiftare och regeringen som verkställare bygger på den maktdelningsprincip som formades av erfarenheterna 1719-1809. Genom att förstå den historiska bakgrunden - pendlingen mellan riksdagsmakt och kungamakt - kan elever se varför maktdelning är en grundprincip i det svenska systemet."
+    }
+  ],
+
+  "fragor_for_resonemang": {
+    "niva_1": {
+      "betyg_e": [
+        "Vad hände under frihetstiden - vem bestämde i Sverige och varför?",
+        "Berätta om Gustav III:s statskupp. Vad hände den 19 augusti 1772?"
+      ],
+      "betyg_c": [
+        "Förklara varför riksdagen fick makten efter Karl XII:s död. Vad hade hänt som gjorde att folk inte ville ha en enväldig kung?",
+        "Berätta om mordet på Gustav III. Vilka låg bakom och varför ville de döda kungen?"
+      ],
+      "betyg_a": [
+        "Jämför vem som bestämde under frihetstiden med vem som bestämde under Gustav III:s tid. Vad var bra och dåligt med de olika systemen?",
+        "1809 skrev man en ny grundlag som delade makten. Varför tror du att man valde den lösningen istället för att låta riksdagen eller kungen bestämma ensam? Ge mer än en förklaring."
+      ]
+    },
+    "niva_2": {
+      "betyg_e": [
+        "Beskriv de viktigaste händelserna i Sverige från frihetstidens början till 1809 års regeringsform. Nämn minst tre händelser och förklara varför de var viktiga.",
+        "Vilka var hattarna och mössorna, och vad skilde dem åt? Ge exempel på vad de ville."
+      ],
+      "betyg_c": [
+        "Förklara varför Gustav III genomförde sin statskupp 1772. Vilka problem ville han lösa, och vilka nya problem skapade han?",
+        "Jämför tryckfrihetsförordningen 1766 med Gustav III:s inskränkningar av tryckfriheten. Vad säger detta om förhållandet mellan frihet och makt?"
+      ],
+      "betyg_a": [
+        "Resonera om varför tryckfrihetsförordningen 1766 var viktig, trots att den tillkom som ett resultat av partistrider. Kan bra lagar komma till av egoistiska skäl?",
+        "Analysera varför mordet på Gustav III inte ledde till den förändring konspiratörerna ville ha. Vad hände istället, och vad kan man lära sig av det?"
+      ]
+    },
+    "niva_3": {
+      "betyg_e": [
+        "Redogör för de viktigaste maktskiftena i Sverige 1719-1809 och förklara orsaker och konsekvenser för varje skifte.",
+        "Ge exempel på historiska källor från 1700-talet och diskutera vad de kan berätta om perioden och vilka begränsningar de har."
+      ],
+      "betyg_c": [
+        "Analysera 1809 års regeringsform som ett svar på periodens erfarenheter. Vilka lärdomar drog man av frihetstidens och den gustavianska tidens problem?",
+        "Jämför Gustav III:s kupp 1772 med officerernas kupp 1809. Vilka likheter och skillnader finns, och vad säger det om makt och legitimitet?"
+      ],
+      "betyg_a": [
+        "Resonera om hur perioden 1719-1809 visar sambandet mellan maktkoncentration, motstånd och konstitutionell utveckling. Använd flera perspektiv och konkreta exempel.",
+        "Värdera frihetstiden som demokratiskt experiment. Vem var 'fri' och vem stod utanför? Diskutera med hjälp av historiska källor och begreppen demokrati och maktdelning."
+      ]
+    }
+  }
+}
